@@ -16,3 +16,8 @@ my_favorite_movies = 'Терминатор, Пятый элемент, Ават�
 # как указано в задании!
 
 # TODO здесь ваш код
+first_movie = my_favorite_movies[:10]
+last_movie = my_favorite_movies[-15:]
+second_movie = my_favorite_movies[12:25]
+second_from_end_movie = my_favorite_movies[-22:-17]
+print(first_movie, last_movie, second_movie, second_from_end_movie)
