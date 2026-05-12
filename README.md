@@ -1,6 +1,5 @@
 # 00\_distance
 
-<img width="634" height="171" alt="image" src="https://github.com/user-attachments/assets/3fef100d-2600-45ee-9220-a5b23e0c8bdb" />
 Цель задания: Составить словарь словарей расстояний между городами и найти расстояние на координатной сетке по формуле ((x1 - x2) \*\* 2 + (y1 - y2) \*\* 2) \*\* 0.5
 
 <img width="630" height="94" alt="image" src="https://github.com/user-attachments/assets/7fe62688-8988-4dba-a69e-8f21a84c619a" />
