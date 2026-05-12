@@ -20,4 +20,4 @@ first_movie = my_favorite_movies[:10]
 last_movie = my_favorite_movies[-15:]
 second_movie = my_favorite_movies[12:25]
 second_from_end_movie = my_favorite_movies[-22:-17]
-print(first_movie, last_movie, second_movie, second_from_end_movie)
+print(first_movie, "\n", last_movie, "\n", second_movie, "\n", second_from_end_movie)
